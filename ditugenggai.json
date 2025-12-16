@@ -1,0 +1,279 @@
+{
+  "version": "1.0",
+  "timestamp": 1765878000018,
+  "pins": [
+    {
+      "id": "landmark-biblioplex",
+      "month": 9,
+      "x": 50,
+      "y": 50,
+      "map": "academy",
+      "type": "landmark",
+      "title": "茂典阁",
+      "desc": "斯翠海文的中心图书馆。",
+      "status": "active",
+      "level": 0,
+      "subMapImage": "https://images.unsplash.com/photo-1507842217153-e21220c52221?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "subMapId": "map-biblioplex-interior",
+      "iconUrl": "https://img.icons8.com/color/96/library-building.png",
+      "timeline": [
+        {
+          "date": "4568/01/01",
+          "event": "茂典阁建成五百周年纪念日。"
+        },
+        {
+          "date": "4569/09/10",
+          "event": "因地下室渗水，部分禁书区暂时封闭。"
+        }
+      ]
+    },
+    {
+      "id": "landmark-stadium",
+      "month": 9,
+      "x": 80,
+      "y": 30,
+      "map": "academy",
+      "type": "landmark",
+      "title": "法师塔球场",
+      "desc": "热血沸腾的赛场。",
+      "status": "closed",
+      "level": 0,
+      "timeline": []
+    },
+    {
+      "id": 1,
+      "month": 10,
+      "expiryMonth": 12,
+      "x": 45,
+      "y": 40,
+      "map": "academy",
+      "type": "combat",
+      "title": "操场骚动",
+      "desc": "有人看到操场下的草皮在蠕动。",
+      "status": "active",
+      "level": 3
+    },
+    {
+      "id": 201,
+      "month": 10,
+      "expiryMonth": 11,
+      "x": 60,
+      "y": 60,
+      "map": "academy",
+      "type": "club",
+      "title": "戏剧社招新",
+      "desc": "寻找有魅力的主演。",
+      "status": "active",
+      "level": 0
+    },
+    {
+      "id": 101,
+      "month": 10,
+      "expiryMonth": 12,
+      "x": 30,
+      "y": 40,
+      "map": "map-biblioplex-interior",
+      "type": "combat",
+      "title": "书架怪",
+      "desc": "一本长牙的魔法书。",
+      "status": "active",
+      "level": 2
+    },
+    {
+      "id": 102,
+      "month": 10,
+      "expiryMonth": 12,
+      "x": 70,
+      "y": 60,
+      "map": "map-biblioplex-interior",
+      "type": "npc",
+      "title": "图书管理员",
+      "desc": "正在寻找丢失的《初级火球术》。",
+      "status": "active",
+      "level": 10,
+      "iconUrl": "https://img.icons8.com/color/96/wizard.png"
+    },
+    {
+      "id": 4,
+      "month": 10,
+      "expiryMonth": 12,
+      "x": 60,
+      "y": 20,
+      "map": "arcavios",
+      "type": "combat",
+      "title": "奥里奇边境巡逻",
+      "desc": "需要护送商队。",
+      "status": "active",
+      "level": 5
+    }
+  ],
+  "assets": {
+    "newspaper": [
+      "https://images.unsplash.com/photo-1586339949916-3e9457bef6d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    ],
+    "academyMap": "https://media.discordapp.net/attachments/1440948009117548566/1450164920711643156/e56536763171a5b8.jpg?ex=69418ad3&is=69403953&hm=99d071bdcc153abfb5d3bc38918f701c5c009e50820073700131dd808b293bb1&=&format=webp&width=1797&height=1032",
+    "arcaviosMap": "https://media.discordapp.net/attachments/1440948009117548566/1450164923668889640/3cd1c7a8a2fdde8d.jpg?ex=69418ad4&is=69403954&hm=0398fa8491ca1131f7eb9cefc095d5d3c18c194f4173c4086ed6dcd76e2776ff&=&format=webp&width=1695&height=1032"
+  },
+  "archives": {
+    "students": [
+      {
+        "id": "S001",
+        "name": "艾拉·晨星",
+        "college": "石语堂",
+        "year": "一年级",
+        "dorm": "宿舍A-101",
+        "race": "人类",
+        "class": "法师",
+        "level": 1,
+        "status": "健康",
+        "photoUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+        "background": "来自北方山脉的矿工之女。",
+        "timeline": [
+          {
+            "date": "4569/09/01",
+            "event": "入学，被分院帽分配至石语堂。"
+          }
+        ]
+      },
+      {
+        "id": "S002",
+        "name": "奥利奥",
+        "college": "银毫学院",
+        "year": "一年级",
+        "dorm": "宿舍B-202",
+        "race": "人类",
+        "class": "牧师",
+        "level": 1,
+        "status": "健康",
+        "photoUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+        "background": "正如他的名字一样受人欢迎。",
+        "timeline": [
+          {
+            "date": "4569/09/01",
+            "event": "入学，加入了辩论社。"
+          }
+        ]
+      }
+    ]
+  },
+  "schedule": [
+    {
+      "id": 1,
+      "date": "4569-09-01",
+      "type": "event",
+      "title": "开学典礼",
+      "desc": "在茂典阁前广场举行。"
+    },
+    {
+      "id": 2,
+      "date": "4569-09-02",
+      "type": "class",
+      "courseId": "c101",
+      "title": "第一堂课：尖叫草",
+      "desc": "需自备耳塞。"
+    },
+    {
+      "id": 3,
+      "date": "4569-09-15",
+      "type": "due",
+      "courseId": "c101",
+      "title": "魔药报告截止",
+      "desc": "关于沉积湿地植物分布。"
+    },
+    {
+      "id": 4,
+      "date": "4569-10-10",
+      "type": "exam",
+      "courseId": "c102",
+      "title": "魔法史期中考",
+      "desc": "DC12 历史检定。"
+    }
+  ],
+  "courses": [
+    {
+      "id": "c101",
+      "year": 1,
+      "name": "魔法植物学入门",
+      "professors": "西弗勒斯、阿格兰",
+      "overview": "学习基础魔法植物的识别、采摘与保存。",
+      "grading": [
+        {
+          "type": "提交报告",
+          "weight": "65%",
+          "desc": "正确采摘的完整魔药样本及报告。"
+        },
+        {
+          "type": "期末论文",
+          "weight": "35%",
+          "desc": "魔药采集与运用论文。"
+        }
+      ],
+      "mechanics": "1次 自然/生存 检定。DC10(普通) / DC14(良) / DC18(优)。"
+    },
+    {
+      "id": "c102",
+      "year": 1,
+      "name": "魔法史概论",
+      "professors": "宾斯教授 (幽灵)",
+      "overview": "阿凯维沃大陆的古代战争史与魔法起源。",
+      "grading": [
+        {
+          "type": "考古作业",
+          "weight": "50%",
+          "desc": "提交古代遗物碎片。"
+        },
+        {
+          "type": "笔试",
+          "weight": "50%",
+          "desc": "血腥时代论述。"
+        }
+      ],
+      "mechanics": "1次 历史/奥秘 检定。DC12(及格)。"
+    },
+    {
+      "id": "c201",
+      "year": 2,
+      "name": "中级墨法学",
+      "professors": "谢伊莱·黑书",
+      "overview": "银毫学院进阶课程，学习如何用文字操纵人心。",
+      "grading": [
+        {
+          "type": "辩论赛",
+          "weight": "100%",
+          "desc": "在公开辩论中击败对手。"
+        }
+      ],
+      "mechanics": "3次 威吓/游说 检定，三局两胜。"
+    }
+  ],
+  "worldLog": [
+    {
+      "id": 1,
+      "month": 9,
+      "type": "environment",
+      "text": "秋季开学典礼顺利举行。"
+    },
+    {
+      "id": 2,
+      "month": 10,
+      "type": "npc",
+      "text": "茂典阁宣布延长开放时间，但严禁在馆内饮食。"
+    }
+  ],
+  "reports": [
+    {
+      "id": 1,
+      "pl": "PL_Dave",
+      "content": "艾拉·晨星在探索图书馆时发现了古代符文。",
+      "date": "4569/09/15",
+      "tags": [
+        "艾拉·晨星"
+      ]
+    }
+  ],
+  "worldDate": {
+    "year": 4569,
+    "month": 10,
+    "day": 15
+  }
+}
